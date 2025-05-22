@@ -121,10 +121,10 @@ run ```htop``` as your user in a terminal to see the custom layout.
 
 ## 📚 Learn more
 
-- 📘 [Htop manual page](https://htop.dev/): Official site and feature documentation.  
-- ⚙️ [Arch wiki: htop](https://wiki.archlinux.org/title/Htop): Detailed explanation of columns, sorting options and shortcuts.  
-- 🛠️ [Htop GitHub repo](https://github.com/htop-dev/htop): Contribute or check out the latest development on GitHub.  
-- 🎨 [Catppuccin for htop](https://github.com/catppuccin/htop): Themed color presets for htop using the Catppuccin palette.
+- 📘 [Htop manual page](https://htop.dev/) : Official site and feature documentation.  
+- ⚙️ [Arch wiki: htop](https://wiki.archlinux.org/title/Htop) : Detailed explanation of columns, sorting options and shortcuts.  
+- 🛠️ [Htop GitHub repo](https://github.com/htop-dev/htop) : Contribute or check out the latest development on GitHub.  
+- 🎨 [Catppuccin for htop](https://github.com/catppuccin/htop) : Themed color presets for htop using the Catppuccin palette.
 
 ## 🌐 Discover my NixOS system portal
 
