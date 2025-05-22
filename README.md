@@ -36,10 +36,10 @@ This module is part of ```Typovrak NixOS```, a fully modular and declarative ope
 ```bash
 ❯ tree -a -I ".git*"
 .
-├── configuration.nix
-├── htoprc
-├── LICENSE.md
-└── README.md
+├── configuration.nix # module configuration
+├── htoprc            # htop configuration
+├── LICENSE.md        # MIT license
+└── README.md         # this documentation
 
 1 directory, 4 files
 ```
